@@ -11,6 +11,7 @@ export default Component.extend({
   attributeBindings: [
     'accept',
     'autocomplete',
+    'autofocus',
     'autosave',
     'checked',
     'dir',
@@ -30,6 +31,7 @@ export default Component.extend({
     'name',
     'pattern',
     'placeholder',
+    'required',
     'size',
     'step',
     'type',
